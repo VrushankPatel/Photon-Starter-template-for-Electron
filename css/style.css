@@ -1,0 +1,13 @@
+.title_Buttons{
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 3px;;
+}
+.toolbar{
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+#actualBody{
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
